@@ -2,8 +2,8 @@
 Changelog for package rosidl_typesupport_microxrcedds_c_tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+5.0.1 (2024-05-31)
+------------------
 * Bump Jazzy (`#65 <https://github.com/micro-ROS/rosidl_typesupport_microxrcedds/issues/65>`_)
   * Bump Jazzy
   * Fix tests
