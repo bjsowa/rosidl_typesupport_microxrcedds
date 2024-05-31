@@ -2,6 +2,9 @@
 Changelog for package rosidl_typesupport_microxrcedds_c
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 5.0.0 (2023-06-06)
 ------------------
 * Fix services (`#62 <https://github.com/micro-ROS/rosidl_typesupport_microxrcedds/issues/62>`_)
